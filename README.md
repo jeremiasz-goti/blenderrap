@@ -1,2 +1,2 @@
-# blenderrap
-blender rap wp theme
+# About
+Custom wordpress theme for hip hop portal
